@@ -22,8 +22,8 @@ Invia una richiesta via email a: **andrearoberto.benvenuti@mail.polimi.it**
 
 ## 👥 Team
 
-Alleva Giorgio (pygiopoli)
-Andrea Roberto Benvenuti (AndreaRB)
-Andrea Baglieri (AndryBagly03)
-Mattia Di Nardo (DiNardoMattia)
+- Alleva Giorgio (pygiopoli)
+- Andrea Roberto Benvenuti (AndreaRB)
+- Andrea Baglieri (AndryBagly03)
+- Mattia Di Nardo (DiNardoMattia)
 
