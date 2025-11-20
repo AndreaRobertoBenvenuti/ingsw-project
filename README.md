@@ -3,6 +3,8 @@ Progetto Accademico Ingengeria del Software - Politecnico di Milano
 
 # Galaxy Trucker - Repository Pubblica
 
+https://github.com/pygiopoli/IS25-AM39
+
 ## ℹ️ Informazioni sul Progetto
 
 Questo progetto è stato sviluppato come parte di una collaborazione tra il **Politecnico di Milano** e l'azienda partner.
@@ -20,4 +22,8 @@ Invia una richiesta via email a: **andrearoberto.benvenuti@mail.polimi.it**
 
 ## 👥 Team
 
+Alleva Giorgio (pygiopoli)
+Andrea Roberto Benvenuti (AndreaRB)
+Andrea Baglieri (AndryBagly03)
+Mattia Di Nardo (DiNardoMattia)
 
