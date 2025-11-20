@@ -1,6 +1,6 @@
 # ingsw-project
-Progetto Accademico Ingengeria del Software - Politecnico di Milano
-
+Progetto Accademico Ingengeria del Software - Politecnico di Milano  
+Voto 30/30
 # Galaxy Trucker - Repository Pubblica
 
 https://github.com/pygiopoli/IS25-AM39
